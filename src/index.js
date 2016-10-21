@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import Designer from './Designer';
 
 
-ReactDOM.render(
-  <Designer />,
-  document.getElementById('root')
+ReactDOM.render( < Designer / > ,
+    document.getElementById('root')
 );
